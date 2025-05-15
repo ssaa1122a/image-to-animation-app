@@ -1,4 +1,3 @@
-pip install flask gunicorn
-pip freeze > requirements.txt
+
 
 
